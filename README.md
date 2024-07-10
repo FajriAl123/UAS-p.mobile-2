@@ -5,7 +5,7 @@
 | <b> Kelas   | TI.22.A.5        |
 | <b> Matakuliah   | UAS Pemrograman Mobile 2      |
 
-link youtube : https://youtu.be/ndGqz0-Iwl8
+link youtube :https://youtu.be/kyXVFdrdPDU
 
 halaman aplikasi juz amma
 ![1](https://github.com/yudhapurnama/uasmobile1/assets/115516505/eb9c8efa-4679-4ccc-baae-7ba03a2fa46c)
